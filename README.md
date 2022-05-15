@@ -8,7 +8,7 @@
 python3 HackerOneSpider.py
 ```
 
-![image](https://user-images.githubusercontent.com/40432036/168492111-082d765c-e509-4dc8-a12e-14725078d5da.png)
+![image](https://user-images.githubusercontent.com/40432036/168496022-0e7587e5-40d5-4d70-9bee-182a48068c0c.png)
 
 
 
